@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-image: url('https://img.lovepik.com/bg/20240131/Vibrant-Emoticons-A-Colorful-Collection-with-Diverse-Backgrounds_3166239_wh1200.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#k1 {
+  font-family: 'Baloo Tammudu 2', cursive;
+  background-color: #5600ff;
+  color: white;
+  padding: 20px;
+  display: inline-block;
+  margin: 50px;
+  border: 1px solid black;
+}
+
+#k2 {
+  font-family: 'Baloo Tammudu 2', cursive;
+  background-color: #f6ce09;
+  padding: 20px;
+  display: inline-block;
+  margin: 50px;
+  border: 1px solid black;
+}
+
+#q1 {
+  background-color: #48dlcc;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 8px 8px 10px 0 #ffff00, -5px -5px 5px 0 #6c8cd7, 5px 5px 15px 0 #ff0;
+}
